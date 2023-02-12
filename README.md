@@ -3,7 +3,8 @@
 
 ### Objectives 
 Membuat sistem kasir self-service agar customer bisa langsung memasukan produk yang ingin dibeli, jumlah item yang dibeli, dan harga item, serta fitur-fitur lainnya. Program ini juga dimaksudkan agar pembeli yang tidak berada di kota tersebut bisa tetap bisa membeli di supermarket milik Andi. 
-### Feature Requirements 
+
+### Feature Requirements and flowchart 
 1. Membuat proses untuk membuat ID transaksi customer 
 2. Membuat proses untuk memasukkan nama produk, jumlah, dan harga
 3. Membuat proses untuk melakukan update detail produk /penghapusan item produk jika ada kesalahan 
