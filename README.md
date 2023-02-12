@@ -45,6 +45,8 @@ Merupakan fungsi untuk mengecek apakah data yang diinput sudah sesuai kemudian t
 ![image](https://user-images.githubusercontent.com/125171866/218322667-86bfec57-2e5a-4ba4-b278-aa06435b765f.png)
 ![image](https://user-images.githubusercontent.com/125171866/218322705-519fc384-5a24-4f90-a4f0-fb756907e979.png)
 
+### Test case
+
 ### Strength and Weakness 
 1. Strength: Alur program sederhana dan dapat customize barang sesuai dengan keinginan customer 
 2. Weakness: Agak sulit diterapkan sekarang pada skala yang lebih besar 
