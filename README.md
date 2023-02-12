@@ -13,7 +13,6 @@ Membuat sistem kasir self-service agar customer bisa langsung memasukan produk y
 6. Membuat proses untuk mengecek apakah data yang diinput sudah benar 
 7. Membuat proses untuk menghitung jumlah total belanja (tanpa dan dengan diskon). 
 
-### Flowchart
 ### Code explanation 
 #### a. init() 
 Merupakan fungsi inisiasi untuk membuat class product/ membuat ID transaksi customer. 
@@ -44,4 +43,13 @@ Merupakan fungsi untuk mengecek apakah data yang diinput sudah sesuai kemudian t
 
 ![image](https://user-images.githubusercontent.com/125171866/218322667-86bfec57-2e5a-4ba4-b278-aa06435b765f.png)
 ![image](https://user-images.githubusercontent.com/125171866/218322705-519fc384-5a24-4f90-a4f0-fb756907e979.png)
+
+### Strength and Weakness 
+1. Strength: Alur program sederhana dan dapat customize barang sesuai dengan keinginan customer 
+2. Weakness: Agak sulit diterapkan sekarang pada skala yang lebih besar 
+
+### Things might do in the future 
+1. Membuat list database kode barang seperti yang dilakukan cashier-cashier saat ini. 
+
+
 
